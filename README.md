@@ -48,3 +48,8 @@ Future Improvements
 - Try more advanced models
 - Improve accuracy
 - Build a simple web app for user input
+
+Output
+
+Dashboard
+![Dashboard](dashboard.png)
