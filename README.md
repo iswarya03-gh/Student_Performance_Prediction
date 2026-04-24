@@ -52,4 +52,5 @@ Future Improvements
 Output
 
 Dashboard
-Dashboard.png.png
+<img width="1304" height="731" alt="Dashboard png" src="https://github.com/user-attachments/assets/6a10ce69-dc81-44cc-96d9-94f18baa150b" />
+
