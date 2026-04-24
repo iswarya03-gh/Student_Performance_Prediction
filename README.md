@@ -52,4 +52,3 @@ Future Improvements
 Output
 
 Dashboard
-![Dashboard](dashboard.png)
